@@ -3242,7 +3242,7 @@ p.form-message.success, p.form-message.error {
 .float{
 	position:fixed;
 	bottom:40px;
-	right:30px;
+	left:30px;
     font-size:25px;
 	z-index: 999;
 }
@@ -3250,7 +3250,7 @@ p.form-message.success, p.form-message.error {
 .float2{
 	position:fixed;
 	bottom:120px;
-	right:30px;
+	left:30px;
     font-size:25px;
 	z-index: 999;
 }
